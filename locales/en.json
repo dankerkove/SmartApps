@@ -1,0 +1,11 @@
+{
+	"Tap to set": "Tap to set",
+	"pages.mainPage.name": "Lights Open/Close",
+	"pages.mainPage.sections.sensors.name": "When something opens or closes",
+	"pages.mainPage.settings.sensor.name": "Select an open/close sensor",
+	"pages.mainPage.sections.sensors2.name": "When motion is active",
+	"pages.mainPage.settings.sensor2.name": "Select a motion sensor",
+	"pages.mainPage.sections.lights.name": "Turn on and off these lights",
+	"pages.mainPage.settings.lights.name": "Select lights & switches",
+	"pages.mainPage.settings.sensors2.name": "pages.mainPage.settings.sensors2.name"
+}
